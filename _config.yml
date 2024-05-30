@@ -56,18 +56,18 @@ kramdown:
 
 defaults:
   -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true
-      social-share: true
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
+  #   scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     layout: "post"
+  #     comments: true
+  #     social-share: true
+  # -
+  #   scope:
+  #     path: ""
+  #   values:
+  #     layout: "page"
 
 exclude:
   - CHANGELOG.md
