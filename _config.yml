@@ -28,7 +28,7 @@ url-pretty: "qingqinfang.com"
 excerpt_length: 50
 feed_show_excerpt: true
 feed_show_tags: true
-post_search: true
+post_search: false
 edit_page_button: true
 navbar-var-length: false
 keywords: "Qingqin Fang, Computing, AI, Software Development, Data Analysis, Machine Learning"
