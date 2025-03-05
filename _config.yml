@@ -7,14 +7,15 @@ navbar-links:
   Projects: "/projects/"
   Blog: "/blog/"
   Contact: "/contact/"
+  Contact: "/contact/"
 
 avatar: "/assets/img/avatar-icon.png"
 round-avatar: true
 
 social-network-links:
-  email: "qingqin.fang@anu.edu.au"
+  email: "fangqingqin0405@gmail.com"
   linkedin: qingqin-fang-a01572266
-  github: your-github-username
+  github: fangqingqin
 
 rss-description: Personal blog and portfolio of Qingqin Fang
 
@@ -31,7 +32,7 @@ feed_show_tags: true
 post_search: false
 edit_page_button: true
 navbar-var-length: false
-keywords: "Qingqin Fang, Computing, AI, Software Development, Data Analysis, Machine Learning"
+keywords: "Qingqin Fang, Computing, AI, Software Development, Machine Learning, Personal Blog, Portfolio"
 
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
